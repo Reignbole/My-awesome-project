@@ -1,2 +1,2 @@
 # My-awesome-project
-"My certificates for introduction to cybersecurity and network basics
+"My Certificates for Introduction to Cybersecurity and Network Basics
